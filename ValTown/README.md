@@ -1,5 +1,7 @@
 ## Val Town
 
+home: https://www.val.town/
 
-https://www.val.town/
-https://www.val.town/@ernest
+my vals: https://www.val.town/@ernest
+
+More experimental vals not included here...
